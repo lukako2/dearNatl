@@ -19,12 +19,14 @@ document.addEventListener("DOMContentLoaded", function() {
         const imgTag = document.createElement("img");
         imgTag.src = images[currentImageIndex];
         imgTag.alt = "natl bd 2023.img";
+        imgTag.loading = "lazy";
         imgContainer.appendChild(imgTag);
 
         if (currentImageIndex === 0) {
             const hbdImgTag = document.createElement("img");
             hbdImgTag.src = hbdVid;
             hbdImgTag.alt = "HBD image";
+            hbdImgTag.loading = "lazy";
             hbdContainer.appendChild(hbdImgTag);
         }
 
