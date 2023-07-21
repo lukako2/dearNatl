@@ -3,9 +3,9 @@ document.addEventListener("DOMContentLoaded", function() {
     const imgContainer = document.querySelector(".img-container");
     const hbdContainer = document.querySelector(".hbd");
     const images = [
-        "./imgs/gilocavnatl-min.jpg",
-        "./imgs/ვარსკვლავთ-გოგონა-min.jpg",
-        "./imgs/scary-min.jpg",
+        "https://i.ibb.co/272YpYv/gilocavnatl-min-min.jpg",
+        "https://i.ibb.co/Fxpz5WQ/min-min.jpg",
+        "https://i.ibb.co/8BQmyGX/scary-min-min.jpg",
         "./imgs/gold-coochie.gif",
     ];
 
