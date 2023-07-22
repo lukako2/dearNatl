@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
       "./imgs/gold-coochie.gif",
       "https://i.ibb.co/zPVGmhh/emonatl.jpg",
       "./imgs/cutienatl.gif",
+      "https://i.ibb.co/P5YkxTP/how-to-hack-club-penguin-min.jpg",
     ];
   
     const hbdVid =
