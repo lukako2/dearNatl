@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "https://i.ibb.co/Fxpz5WQ/min-min.jpg",
         "https://i.ibb.co/8BQmyGX/scary-min-min.jpg",
         "./imgs/gold-coochie.gif",
+        "https://i.ibb.co/zPVGmhh/emonatl.jpg",
     ];
 
     const hbdVid = "https://i.gifer.com/origin/94/9453bb10dcc37daf75abcf3fea141fc8_w200.gif";
