@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
       "https://i.ibb.co/zPVGmhh/emonatl.jpg",
       "./imgs/cutienatl.gif",
       "https://i.ibb.co/P5YkxTP/how-to-hack-club-penguin-min.jpg",
+      'https://i.ibb.co/R4LDrLY/DSC01170-min.jpg',
     ];
   
     const hbdVid =
