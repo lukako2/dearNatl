@@ -14,6 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
     "https://i.ibb.co/3mXPdnm/arabNatl.jpg",
     "https://i.ibb.co/v4QxtVJ/arab2.jpg",
     "https://i.ibb.co/Sn6hk17/DSC01179-min.jpg",
+    "https://i.ibb.co/Jc1XkWQ/arab3-min.jpg",
   ];
 
   const hbdVid =
