@@ -18,6 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
     "./imgs/ezgif.com-optimize (2).gif",
     "./imgs/11231840_d6633.gif",
     "./imgs/picmix.com_11232347.gif",
+    "https://i.ibb.co/4SDGSMp/DSC00984-min.jpg",
   ];
 
   const hbdVid =
