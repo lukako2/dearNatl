@@ -15,6 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
     "https://i.ibb.co/v4QxtVJ/arab2.jpg",
     "https://i.ibb.co/Sn6hk17/DSC01179-min.jpg",
     "https://i.ibb.co/Jc1XkWQ/arab3-min.jpg",
+    "./imgs/ezgif.com-optimize (2).gif",
   ];
 
   const hbdVid =
