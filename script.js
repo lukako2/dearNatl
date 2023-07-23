@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
     "https://i.ibb.co/Jc1XkWQ/arab3-min.jpg",
     "./imgs/ezgif.com-optimize (2).gif",
     "./imgs/11231840_d6633.gif",
+    "./imgs/picmix.com_11232347.gif",
   ];
 
   const hbdVid =
