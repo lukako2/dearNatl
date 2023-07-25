@@ -24,6 +24,8 @@ document.addEventListener("DOMContentLoaded", function () {
     'https://i.ibb.co/R41d1ms/natlsexy-min.jpg',
     'https://i.ibb.co/bs9yTxZ/natltwin-min.jpg',
     "./imgs/11235095_3f738.gif",
+    "https://i.ibb.co/7S9LFwD/DSC01166-min.jpg",
+    "https://i.ibb.co/rGjyNBK/DSC01163-min.jpg",
   ];
 
   const hbdVid =
