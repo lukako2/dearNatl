@@ -19,6 +19,12 @@ document.addEventListener("DOMContentLoaded", function () {
     "./imgs/11231840_d6633.gif",
     "./imgs/picmix.com_11232347.gif",
     "https://i.ibb.co/4SDGSMp/DSC00984-min.jpg",
+    'https://i.ibb.co/HFWqP8g/DSC00532-min.jpg',
+    'https://i.ibb.co/09DB1Qc/DSC00984-min.jpg',
+    'https://i.ibb.co/CPdNbtN/natlheaven-min.jpg',
+    'https://i.ibb.co/R41d1ms/natlsexy-min.jpg',
+    'https://i.ibb.co/bs9yTxZ/natltwin-min.jpg',
+    "./imgs/11235095_3f738.gif",
   ];
 
   const hbdVid =
