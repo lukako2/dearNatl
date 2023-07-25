@@ -18,7 +18,6 @@ document.addEventListener("DOMContentLoaded", function () {
     "./imgs/ezgif.com-optimize (2).gif",
     "./imgs/11231840_d6633.gif",
     "./imgs/picmix.com_11232347.gif",
-    "https://i.ibb.co/4SDGSMp/DSC00984-min.jpg",
     'https://i.ibb.co/HFWqP8g/DSC00532-min.jpg',
     'https://i.ibb.co/09DB1Qc/DSC00984-min.jpg',
     'https://i.ibb.co/CPdNbtN/natlheaven-min.jpg',
